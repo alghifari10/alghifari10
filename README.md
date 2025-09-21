@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya adalah seorang Software engineer front-end yang berorientasi solusi, mahir dalam HTML, CSS, Python, Java, JavaScript, PHP dan Angular. Saya memiliki pengalaman mengembangkan antarmuka pengguna (UI) yang dinamis dan responsif untuk berbagai proyek, dengan fokus pada pengalaman pengguna (UX) yang optimal. Saya terampil dalam pemecahan masalah kompleks dan antusias untuk terus belajar teknologi baru untuk meningkatkan keterampilan dan kontribusi pada pengembangan perangkat lunak.
+I am Muhammad Arshad AL Ghifari, an innovative and solution-oriented web developer with extensive experience in web application development, skilled in designing intuitive interfaces and seamless user experiences. Proficient in JavaScript, SQL, Python, Java, PHP, C#, Ruby, and Swift. I am capable of building responsive and efficient websites across multiple platforms. My expertise includes front-end development for visual presentations, as well as back-end development to ensure end-to-end functionality.
 
 
 ## 🌐 Socials:
