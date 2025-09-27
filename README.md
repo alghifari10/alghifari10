@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am Muhammad Arshad AL Ghifari, an innovative and solution-oriented web developer with extensive experience in web application development, skilled in designing intuitive interfaces and seamless user experiences. Proficient in JavaScript, SQL, Python, Java, PHP, C#, Ruby, and Swift. I am capable of building responsive and efficient websites across multiple platforms. My expertise includes front-end development for visual presentations, as well as back-end development to ensure end-to-end functionality.
-
+I am Muhammad Arshad AL Ghifari, an innovative and solution-oriented web developer with extensive experience in web application development, skilled in designing intuitive interfaces and seamless user experiences. Proficient in Python, JavaScript, Java, PHP, C#, Go (Golang). I am capable of building responsive and efficient websites across multiple platforms. My expertise includes front-end development for visual presentations, as well as back-end development to ensure end-to-end functionality.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/al.ghifari10_) 
